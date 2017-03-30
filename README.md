@@ -1,2 +1,3 @@
 # Rosalind-Solutions
-My solutions to Rosalind Bioinformatics (http://rosalind.info/users/anthony.omorada/)
+My solutions to Rosalind Bioinformatics 
+Rosalind Profile: http://rosalind.info/users/anthony.omorada/
